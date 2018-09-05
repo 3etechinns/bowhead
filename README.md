@@ -1,3 +1,5 @@
+UPDATE (9/5/2018) A lot of what I was working on was placed on hold longer as I ended up finding new employment and am now in the process of moving my family to San Francisco to work at LinkedIn as a Senior SRE. It was a long process and I am unsure of when I will be able to work more on Bowhead right now.
+
 UPDATE (4/6/2018) see follow-up: https://medium.com/@joeldg/cryptocurrency-bot-framework-followup-3bc289322fb1
 
 UPDATE (3/15/2018) I'm still here, left my old job, started a new job and been hectic. Work will resume on Bowhead this weekend.
